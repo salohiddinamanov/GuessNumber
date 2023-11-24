@@ -37,6 +37,8 @@ btn.addEventListener("click", () => {
     document.body.style.backgroundColor = "red";
     document.body.style.color = "white";
     mainNumber.textContent = "?";
+  }else if(score1.max = score2){
+    score2.textContent = (score1.max)
   }
 });
 
